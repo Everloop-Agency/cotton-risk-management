@@ -1,0 +1,193 @@
+{
+  "sources": [
+    {
+      "id": "MX04002",
+      "name": "Campeche",
+      "state": "Campeche",
+      "country": "Mexico",
+      "geography_type": "municipality",
+      "source": "INEGI 2025 municipal GeoJSON mirror",
+      "url": "https://raw.githubusercontent.com/MacWilliXD/INEGI-geojson/main/Municipios-OLD/AGEM_04002.geojson"
+    },
+    {
+      "id": "MX05007",
+      "name": "Cuatro Ciénegas",
+      "state": "Coahuila",
+      "country": "Mexico",
+      "geography_type": "municipality",
+      "source": "INEGI 2025 municipal GeoJSON mirror",
+      "url": "https://raw.githubusercontent.com/MacWilliXD/INEGI-geojson/main/Municipios-OLD/AGEM_05007.geojson"
+    },
+    {
+      "id": "MX05035",
+      "name": "Torreón",
+      "state": "Coahuila",
+      "country": "Mexico",
+      "geography_type": "municipality",
+      "source": "INEGI 2025 municipal GeoJSON mirror",
+      "url": "https://raw.githubusercontent.com/MacWilliXD/INEGI-geojson/main/Municipios-OLD/AGEM_05035.geojson"
+    },
+    {
+      "id": "MX25001",
+      "name": "Ahome",
+      "state": "Sinaloa",
+      "country": "Mexico",
+      "geography_type": "municipality",
+      "source": "INEGI 2025 municipal GeoJSON mirror",
+      "url": "https://raw.githubusercontent.com/MacWilliXD/INEGI-geojson/main/Municipios-OLD/AGEM_25001.geojson"
+    },
+    {
+      "id": "MX25011",
+      "name": "Guasave",
+      "state": "Sinaloa",
+      "country": "Mexico",
+      "geography_type": "municipality",
+      "source": "INEGI 2025 municipal GeoJSON mirror",
+      "url": "https://raw.githubusercontent.com/MacWilliXD/INEGI-geojson/main/Municipios-OLD/AGEM_25011.geojson"
+    },
+    {
+      "id": "MX25018",
+      "name": "Navolato",
+      "state": "Sinaloa",
+      "country": "Mexico",
+      "geography_type": "municipality",
+      "source": "INEGI 2025 municipal GeoJSON mirror",
+      "url": "https://raw.githubusercontent.com/MacWilliXD/INEGI-geojson/main/Municipios-OLD/AGEM_25018.geojson"
+    },
+    {
+      "id": "MX26012",
+      "name": "Bácum",
+      "state": "Sonora",
+      "country": "Mexico",
+      "geography_type": "municipality",
+      "source": "INEGI 2025 municipal GeoJSON mirror",
+      "url": "https://raw.githubusercontent.com/MacWilliXD/INEGI-geojson/main/Municipios-OLD/AGEM_26012.geojson"
+    },
+    {
+      "id": "MX26018",
+      "name": "Cajeme",
+      "state": "Sonora",
+      "country": "Mexico",
+      "geography_type": "municipality",
+      "source": "INEGI 2025 municipal GeoJSON mirror",
+      "url": "https://raw.githubusercontent.com/MacWilliXD/INEGI-geojson/main/Municipios-OLD/AGEM_26018.geojson"
+    },
+    {
+      "id": "MX26026",
+      "name": "Etchojoa",
+      "state": "Sonora",
+      "country": "Mexico",
+      "geography_type": "municipality",
+      "source": "INEGI 2025 municipal GeoJSON mirror",
+      "url": "https://raw.githubusercontent.com/MacWilliXD/INEGI-geojson/main/Municipios-OLD/AGEM_26026.geojson"
+    },
+    {
+      "id": "MX26029",
+      "name": "Guaymas",
+      "state": "Sonora",
+      "country": "Mexico",
+      "geography_type": "municipality",
+      "source": "INEGI 2025 municipal GeoJSON mirror",
+      "url": "https://raw.githubusercontent.com/MacWilliXD/INEGI-geojson/main/Municipios-OLD/AGEM_26029.geojson"
+    },
+    {
+      "id": "MX26030",
+      "name": "Hermosillo",
+      "state": "Sonora",
+      "country": "Mexico",
+      "geography_type": "municipality",
+      "source": "INEGI 2025 municipal GeoJSON mirror",
+      "url": "https://raw.githubusercontent.com/MacWilliXD/INEGI-geojson/main/Municipios-OLD/AGEM_26030.geojson"
+    },
+    {
+      "id": "MX26033",
+      "name": "Huatabampo",
+      "state": "Sonora",
+      "country": "Mexico",
+      "geography_type": "municipality",
+      "source": "INEGI 2025 municipal GeoJSON mirror",
+      "url": "https://raw.githubusercontent.com/MacWilliXD/INEGI-geojson/main/Municipios-OLD/AGEM_26033.geojson"
+    },
+    {
+      "id": "MX26055",
+      "name": "San Luis Río Colorado",
+      "state": "Sonora",
+      "country": "Mexico",
+      "geography_type": "municipality",
+      "source": "INEGI 2025 municipal GeoJSON mirror",
+      "url": "https://raw.githubusercontent.com/MacWilliXD/INEGI-geojson/main/Municipios-OLD/AGEM_26055.geojson"
+    },
+    {
+      "id": "MX26070",
+      "name": "General Plutarco Elías Calles",
+      "state": "Sonora",
+      "country": "Mexico",
+      "geography_type": "municipality",
+      "source": "INEGI 2025 municipal GeoJSON mirror",
+      "url": "https://raw.githubusercontent.com/MacWilliXD/INEGI-geojson/main/Municipios-OLD/AGEM_26070.geojson"
+    },
+    {
+      "id": "MX26071",
+      "name": "Benito Juárez",
+      "state": "Sonora",
+      "country": "Mexico",
+      "geography_type": "municipality",
+      "source": "INEGI 2025 municipal GeoJSON mirror",
+      "url": "https://raw.githubusercontent.com/MacWilliXD/INEGI-geojson/main/Municipios-OLD/AGEM_26071.geojson"
+    },
+    {
+      "id": "MX26072",
+      "name": "San Ignacio Río Muerto",
+      "state": "Sonora",
+      "country": "Mexico",
+      "geography_type": "municipality",
+      "source": "INEGI 2025 municipal GeoJSON mirror",
+      "url": "https://raw.githubusercontent.com/MacWilliXD/INEGI-geojson/main/Municipios-OLD/AGEM_26072.geojson"
+    },
+    {
+      "id": "MX28002",
+      "name": "Aldama",
+      "state": "Tamaulipas",
+      "country": "Mexico",
+      "geography_type": "municipality",
+      "source": "INEGI 2025 municipal GeoJSON mirror",
+      "url": "https://raw.githubusercontent.com/MacWilliXD/INEGI-geojson/main/Municipios-OLD/AGEM_28002.geojson"
+    },
+    {
+      "id": "MX28022",
+      "name": "Matamoros",
+      "state": "Tamaulipas",
+      "country": "Mexico",
+      "geography_type": "municipality",
+      "source": "INEGI 2025 municipal GeoJSON mirror",
+      "url": "https://raw.githubusercontent.com/MacWilliXD/INEGI-geojson/main/Municipios-OLD/AGEM_28022.geojson"
+    },
+    {
+      "id": "MX28035",
+      "name": "San Fernando",
+      "state": "Tamaulipas",
+      "country": "Mexico",
+      "geography_type": "municipality",
+      "source": "INEGI 2025 municipal GeoJSON mirror",
+      "url": "https://raw.githubusercontent.com/MacWilliXD/INEGI-geojson/main/Municipios-OLD/AGEM_28035.geojson"
+    },
+    {
+      "id": "MX28037",
+      "name": "Soto La Marina",
+      "state": "Tamaulipas",
+      "country": "Mexico",
+      "geography_type": "municipality",
+      "source": "INEGI 2025 municipal GeoJSON mirror",
+      "url": "https://raw.githubusercontent.com/MacWilliXD/INEGI-geojson/main/Municipios-OLD/AGEM_28037.geojson"
+    },
+    {
+      "id": "BR5006275",
+      "name": "Paraíso das Águas",
+      "state": "MS",
+      "country": "Brazil",
+      "geography_type": "municipality",
+      "source": "IBGE territorial mesh API",
+      "url": "https://servicodados.ibge.gov.br/api/v3/malhas/municipios/5006275?formato=application/vnd.geo+json&qualidade=minima"
+    }
+  ]
+}
