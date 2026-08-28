@@ -28,7 +28,14 @@
   let modalWeatherLocation = null, playbackTimer = null, isPlaying = false, modalPlaybackTimer = null, modalIsPlaying = false;
   const map = L.map("map", { zoomControl: false, minZoom: 2, maxZoom: 9 }).setView(DEFAULT_MAP_CENTER, 5);
   L.control.zoom({ position: "bottomright" }).addTo(map);
-  L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", { maxZoom: 19, subdomains: "abcd", attribution: "© OpenStreetMap · © CARTO" }).addTo(map);
+    L.tileLayer(
+      'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
+      {
+        maxZoom: 19,
+        attribution:
+          '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+      }
+    ).addTo(map);
   map.on("click", () => document.getElementById("mapNote")?.classList.add("dismissed"));
   const fips = value => String(value).padStart(5, "0");
   const recordFor = id => annual[selectedYear]?.counties?.[fips(id)] || null;
