@@ -1,0 +1,13 @@
+{
+  "name": "cotton-risk-management",
+  "private": true,
+  "version": "5.0.0",
+  "scripts": {
+    "check": "node --check src/worker.js && node --check public/js/app.js && node scripts/architecture-check.mjs",
+    "dev": "wrangler dev",
+    "deploy": "npm run check && wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}
